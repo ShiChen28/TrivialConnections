@@ -1,6 +1,12 @@
 # TrivialConnections
 Discrete Differential Geometry Exterior Calculus:  Keenan Crane's Trivial Connections Paper
 
+### Some modifications(Make this repository buildable on Windows)
+
+This fork has made some modifications based on the original repository and can now be successfully configured on Windows 11. 
+
+Please update the `SuiteSparse` configuration path in CMakeLists.txt and build using CMake.
+
 ### Usage, e.g.
 
 make <br/>
